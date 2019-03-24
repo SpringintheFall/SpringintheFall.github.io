@@ -1,5 +1,7 @@
 ---
+layout: post
 title: " 2019年: 4月의 계획충"
+---
 categories:
   - DailyLog for part1
 tags:
