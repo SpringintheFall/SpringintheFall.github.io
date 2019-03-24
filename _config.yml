@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt"
 
 # Site Settings
 locale                   : "ko"
@@ -20,7 +20,7 @@ title                    : "계획충의 2019年"
 title_separator          : "-"
 name                     : "Wandering Rookie"
 description              : "열심히 살겠읍니다.."
-url                      : # the base hostname & protocol for your site e.g. "https://SpringintheFall.github.io"
+url                      : "https://SpringintheFall.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "SpringintheFall/SpringintheFall"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요"
   location         : "Busan,Republic of korea"
-  email            :
+  email            : "oblivionb@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -129,7 +129,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/osakalog"
 
 # Site Footer
 footer:
