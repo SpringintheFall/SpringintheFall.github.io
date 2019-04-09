@@ -10,28 +10,28 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "ko-KR"
 title                    : "계획충의 2019年"
 title_separator          : "-"
 name                     : "Wandering Rookie"
-description              : "열심히 살겠읍니다.."
-url                      : "https://SpringintheFall.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "SpringintheFall/SpringintheFall"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+description              : "코딩 새싹 lv.1"
+url                      : "https://springinthefall.github.io/"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "springinthefall.springinthefall.github.io/" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : path of fallback teaser image, e.g. "/assets/images/pro1.png"
+logo                     : "/assets/images/logo1.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "SpringintheFall-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -92,7 +92,7 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -107,14 +107,14 @@ analytics:
 # Site Author
 author:
   name             : "Wandering Rookie"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요"
-  location         : "Busan,Republic of korea"
+  avatar           : "/assets/images/pro-photo.jpg"
+  bio              : "1일1코딩 하겠습니다..."
+  location         : "Busan, Republic of korea"
   email            : "oblivionb@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:oblivionb@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,10 +126,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/SpringintheFall"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/osakalog"
+      url: "https://instagram.com/osakalog"
 
 # Site Footer
 footer:
