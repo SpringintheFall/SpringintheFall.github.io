@@ -1,3 +1,9 @@
+---
+comments : true
+permalink: /docs/posts/
+layout: single
+---
+
 <!doctype html>
 <html>
 <head>
