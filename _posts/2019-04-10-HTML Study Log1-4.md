@@ -1,14 +1,13 @@
 ---
 comments : true
+title:HTML Study Log.1-4</title>
+     <meta charset="utf-8">
 permalink: /docs/posts/
 layout: single
 ---
 
-<!doctype html>
 <html>
 <head>
-<title>HTML Study Log.1-4</title>
-     <meta charset="utf-8">
          <h1>HTML이란?</h1>    
 </head>
 
