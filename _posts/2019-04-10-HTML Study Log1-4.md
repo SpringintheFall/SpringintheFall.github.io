@@ -45,7 +45,7 @@ layout: single
 -sample> target="_blank": 링크접속시 새창 오픈
      <br> title="html5 specification":링크내용 툴팁 뷰잉</p>
 <a href="https://youtu.be/V3pkC1hE-as"
- target="_blank" title="html specification">@강의좌표</a>
+ target="_blank" title="html specification"></a> @강의좌표
 </ol>
 
 
