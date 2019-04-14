@@ -3,7 +3,8 @@ title: "HTML Study Log.1-4"
 permalink: /docs/posts/
 meta charset="utf-8"
 last_modified_at: 2019-04-07
-comments : truepermalink: /docs/posts/
+comments : true
+permalink: /docs/posts/
 layout: "single"
 ---
 
